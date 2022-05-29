@@ -4267,7 +4267,7 @@ License - nucleoapp.com/license/
 
 .nav-tabs {
   border-bottom: 0 none;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 600;
 }
 
@@ -4278,11 +4278,11 @@ License - nucleoapp.com/license/
 }
 
 .nav-tabs .nav-item .nav-link:hover {
-  color: #66615b;
+  color: #000000;
 }
 
 .nav-tabs .nav-item .nav-link.active {
-  color: #66615b;
+  color: #000000;
 }
 
 .nav-tabs .nav-item {
@@ -5080,6 +5080,10 @@ License - nucleoapp.com/license/
   max-height: 150px;
   border-radius: 50%;
   margin-bottom: 10px;
+}
+
+.modelos {
+  font-weight: bold;
 }
 
 .tooltip {

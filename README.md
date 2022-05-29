@@ -13,3 +13,6 @@
 
 ## </br></br></br>Sistema Operacional
 #### - Windows 10 x64 versão 21H1
+
+
+## 🛠Em construção...
